@@ -42,7 +42,9 @@ include_once "./database.php";
 		</div>
 	</div>
 </body>
+<!--  this will add jquery to the code 	 -->
 <script src="jquery-3.5.1.js"></script>
+<!--  this will link the javascript file to the main folder	 -->
 <script src="./app.js"></script>
 
 </html>
